@@ -5,12 +5,12 @@
 
 This app allows users to convert various units of measurement, including data,length,mass,volume and temperature etc. It provides a user-friendly interface and supports easy input through a custom numeric keyboard.
 
-##  Higlights
+##  Highlights
 
 
 <p align="center">
 
- <img src="Screenshots/Screenshot_20240216_105701.jpg" alt="1" width="120">
+ <img src="Screenshots/UnitsHighlights.png" alt="1" width="720">
 
 
 
