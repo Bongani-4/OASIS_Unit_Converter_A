@@ -10,7 +10,7 @@ This app allows users to convert various units of measurement, including data,le
 
 <p align="center">
 
- <img src="Screenshots/UnitsHighlights.png" alt="1" width="720">
+ <img src="ConverterApplication/Screenshots/UnitsHighlights.png" alt="1" width="720">
 
 
 
